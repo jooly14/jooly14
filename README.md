@@ -22,5 +22,9 @@ JSP/Servlet으로 진행한 웹사이트 구현 프로젝트입니다. 5명의 �
 https://jooly14.github.io/hwlibrary/index.html
 - NPNCProject_Spring  
 NPNCProject_JSP_Servlet에서 구현한 웹사이트를 Spring Framework로 컨버팅을 진행한 프로젝트입니다.
-- Project_Final_version_2020
-프로젝트 완성본을 보관하는 repository 입니다.
+- Project_Final_version
+프로젝트 완성본을 보관하는 repository 입니다.  
+    - 카페포스기 프로젝트
+    - 테트리스 프로젝트
+    - 채팅 앱 프로젝트
+    - 도서관 JSP버전 프로젝트
