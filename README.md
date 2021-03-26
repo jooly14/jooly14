@@ -18,7 +18,8 @@
 - NPNCProject_JSP_Servlet  
 JSP/Servlet으로 진행한 웹사이트 구현 프로젝트입니다. 5명의 팀 프로젝트로 진행되었습니다.
 - hwlibrary  
-도서관 홈페이지 UI를 구현한 프로젝트입니다.
+도서관 홈페이지 UI를 구현한 프로젝트입니다. 총 3개의 페이지를 구현했습니다. 도서관 이용 및 도서관 소개 링크를 통해 다른 페이지에 접근하실 수 있습니다. 
+https://jooly14.github.io/hwlibrary/index.html
 - NPNCProject_Spring  
 NPNCProject_JSP_Servlet에서 구현한 웹사이트를 Spring Framework로 컨버팅을 진행한 프로젝트입니다.
 - Project_Final_version_2020
